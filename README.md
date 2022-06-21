@@ -1,1 +1,1 @@
-# odin-recipes
+Showcasing basic structuring a website & HTML using one of my favorite cooks on the internet - Half Baked Harvest
